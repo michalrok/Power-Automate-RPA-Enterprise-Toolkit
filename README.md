@@ -21,4 +21,10 @@ This is a set of tools for teams building automation solutions using **Microsoft
 
 ## Where to start
 
-read the PDF manual.
+Read the PDF manual.
+
+Examine how the **EPA Example** solution is built.
+
+Create your own module using **SampleIntegration**.
+
+Create your RPA solution leveraging the Work Item Queueing capability (manual for this is WIP).
