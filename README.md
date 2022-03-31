@@ -2,6 +2,10 @@
 
 This is a set of tools for teams building automation solutions using **Microsoft Power Platform**. It helps address common requirements of enterprise customers and provides practical guidance for building RPA solutions.
 
+## Manuals link
+
+Please go to https://1drv.ms/u/s!Au_jM7aotZoCn8shSqKwquAKf-GIug for the latest work-in-progress manuals for this toolkit.
+
 ## Capabilities
 
 1. Modularity - build reusable components for your bots. Package them and reuse in multiple solutions.
