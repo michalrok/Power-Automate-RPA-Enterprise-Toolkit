@@ -17,11 +17,7 @@ Please go to https://1drv.ms/u/s!Au_jM7aotZoCn8shSqKwquAKf-GIug for the latest w
 
 * modularity - instructions, templates and sample complete module
 * testing - instructions, templates and a sample
-* work item queuing - orchestration center app, admin tools
-
-## What needs to be done
-
-* work item queuing - extend documentation to cover ingress and egress, provide a working sample of a complete automated process
+* work item queuing - orchestration center app, admin tools, sample process using the techniques described
 
 ## Where to start
 
@@ -29,6 +25,8 @@ Read the PDF manual.
 
 Examine how the **EPA Example** solution is built.
 
+Try the **ZIP Code demo** to see work item queueing in action.
+
 Create your own module using **SampleIntegration**.
 
-Create your RPA solution leveraging the Work Item Queueing capability (manual for this is WIP).
+Create your RPA solution leveraging the Work Item Queueing capability.
