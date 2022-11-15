@@ -8,25 +8,15 @@ Please go to https://1drv.ms/u/s!Au_jM7aotZoCn8shSqKwquAKf-GIug for the latest w
 
 ## Capabilities
 
-1. Modularity - build reusable components for your bots. Package them and reuse in multiple solutions.
-2. Testing - automate the testing process for your modules. Get an overview of test results for all your modules in one application.
-3. Work Item Queueing - build real work item queues as opposed to flow-level queues. Work Item queues object groups multiple flow runs for the same input (in case of restarts) and provides common management tools such as retry policies.
-4. Flexible tagging for exception handling
-
-## What is ready
-
-* modularity - instructions, templates and sample complete module
-* testing - instructions, templates and a sample
-* work item queuing - orchestration center app, admin tools, sample process using the techniques described
+1. Work Item Queueing - build real work item queues as opposed to flow-level queues. Work Item queues object groups multiple flow runs for the same input (in case of restarts) and provides common management tools such as retry policies.
+2. Batch Job processing - execute multiple work items in a single desktop flow session, without logging in and out after every item
 
 ## Where to start
 
-Read the PDF manual.
+Read the manual (link above)
 
-Examine how the **EPA Example** solution is built.
+Install the **Orchestration Center** solution
 
-Try the **ZIP Code demo** to see work item queueing in action.
+Install the **RPA Toolkit Demo** solution
 
-Create your own module using **SampleIntegration**.
-
-Create your RPA solution leveraging the Work Item Queueing capability.
+Go to **Quick Start** section in the docs and try your first batch job
