@@ -15,7 +15,7 @@ Please go to https://1drv.ms/u/s!Au_jM7aotZoCn8shSqKwquAKf-GIug for the latest w
 
 Read the manual (link above)
 
-Install the **Orchestration Center** solution
+Install the **Orchestration Center** solution (managed)
 
 Install the **RPA Toolkit Demo** solution
 
